@@ -1,0 +1,10 @@
+c:\users\syedmohib\source\repos\OsProjectServer\OsProjectServer\bin\Debug\OsProjectServer.exe.config
+c:\users\syedmohib\source\repos\OsProjectServer\OsProjectServer\bin\Debug\OsProjectServer.exe
+c:\users\syedmohib\source\repos\OsProjectServer\OsProjectServer\bin\Debug\OsProjectServer.pdb
+c:\users\syedmohib\source\repos\OsProjectServer\OsProjectServer\obj\Debug\OsProjectServer.csprojResolveAssemblyReference.cache
+c:\users\syedmohib\source\repos\OsProjectServer\OsProjectServer\obj\Debug\OsProjectServer.Form1.resources
+c:\users\syedmohib\source\repos\OsProjectServer\OsProjectServer\obj\Debug\OsProjectServer.Properties.Resources.resources
+c:\users\syedmohib\source\repos\OsProjectServer\OsProjectServer\obj\Debug\OsProjectServer.csproj.GenerateResource.Cache
+c:\users\syedmohib\source\repos\OsProjectServer\OsProjectServer\obj\Debug\OsProjectServer.csproj.CoreCompileInputs.cache
+c:\users\syedmohib\source\repos\OsProjectServer\OsProjectServer\obj\Debug\OsProjectServer.exe
+c:\users\syedmohib\source\repos\OsProjectServer\OsProjectServer\obj\Debug\OsProjectServer.pdb
